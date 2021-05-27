@@ -5,7 +5,7 @@ sudo apt install -y python3-pip
 
 git clone https://github.com/romibuzi/dsp-training.git
 cd dsp-training
-git checkout exercice6-solution
+git checkout exercice6
 # To be able to copy/paste files from local to EC2 instance (see copy/paste command at end of file)
 sudo chmod 777 -R ../dsp-training
 
